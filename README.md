@@ -70,11 +70,6 @@ I am a developer who enjoys building useful digital products, learning new techn
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dhodhoo&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhodhoo&layout=compact&theme=default&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=dhodhoo&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
