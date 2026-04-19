@@ -2,9 +2,6 @@
 <h3 align="center">Web Developer | Problem Solver | Lifelong Learner</h3>
 
 <p align="center">
-  <a href="https://github.com/dhodhoo">
-    <img src="https://img.shields.io/github/followers/dhodhoo?label=Followers&style=for-the-badge" alt="GitHub Followers" />
-  </a>
   <a href="https://github.com/dhodhoo?tab=repositories">
     <img src="https://img.shields.io/github/stars/dhodhoo?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge" alt="GitHub Stars" />
   </a>
