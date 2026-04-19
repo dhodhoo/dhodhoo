@@ -34,7 +34,6 @@ I am a developer who enjoys building useful digital products, learning new techn
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 
 ### Frontend
@@ -54,7 +53,6 @@ I am a developer who enjoys building useful digital products, learning new techn
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 
 ---
 
