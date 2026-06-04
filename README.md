@@ -65,7 +65,7 @@ I am a developer who enjoys building useful digital products, learning new techn
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=dhodhoo&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=dhodhoo&theme=github_dark" alt="GitHub Streak" />
 </p>
 
 ---
