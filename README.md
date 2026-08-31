@@ -17,7 +17,7 @@
 
 ## About Me
 
-I am a developer who enjoys building useful digital products, learning new technologies, and solving real-world problems through clean and efficient code.
+I am a developer who enjoys building useful digital products, learning new technologies, and solving real-world problems through code.
 
 - Focused on building reliable and maintainable applications
 - Interested in software engineering, web development, and product thinking
