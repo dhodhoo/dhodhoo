@@ -31,25 +31,38 @@ I am a developer who enjoys building useful digital products, learning new techn
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Vite](https://img.shields.io/badge/-Vite-black?style=flat-square&logo=vite)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-black?style=flat-square&logo=shadcnui)
+![Three.js](https://img.shields.io/badge/-Three.js-black?style=flat-square&logo=three.js)
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-black?style=flat-square&logo=react-query)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 
 ### Backend & Database
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
 ![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Hono](https://img.shields.io/badge/-Hono-black?style=flat-square&logo=hono)
+![Fastify](https://img.shields.io/badge/-Fastify-black?style=flat-square&logo=fastify)
+![FastAPI](https://img.shields.io/badge/-FastAPI-black?style=flat-square&logo=fastapi)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
+![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)
+![Drizzle ORM](https://img.shields.io/badge/-Drizzle%20ORM-black?style=flat-square&logo=drizzle)
+![Cloudflare Workers](https://img.shields.io/badge/-Cloudflare%20Workers-black?style=flat-square&logo=cloudflare)
+![Electron](https://img.shields.io/badge/-Electron-black?style=flat-square&logo=electron)
 
 ### Tools
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Playwright](https://img.shields.io/badge/-Playwright-black?style=flat-square&logo=playwright)
 
 ---
 
